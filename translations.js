@@ -1646,7 +1646,7 @@ de: {
 	aboutStarve: "Über Zähmen durch Aushungern",
 	add: "Hinzufügen",
 	addCustomWeaponName: "Füge einen eigenen Namen hinzu, um diese Waffe zu identifizieren.",
-	addWeapons: "Füge deine eigenen Waffen hinzu und Kreaturen mit verändertem Schaden um die Dododex KO-Zeit-Berechnungen zu personalisieren.",
+	addWeapons: "Füge deine eigenen Waffen und Kreaturen mit verändertem Schaden hinzu, um die Dododex KO-Zeit-Berechnungen zu personalisieren.",
 	adjustMultipliers: "Verändere die Multiplikatioren für unoffizielle Servereinstellungen. (Multiplikatoren auf 1 gesetzt lassen für offizielle Server)",
 	adolescent: "Heranwachsend",
 	adult: "Erwachsen",
